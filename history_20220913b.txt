@@ -1,0 +1,39 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  uname
+    4  man uname
+    5  uname -a
+    6  uname --all
+    7  whoami
+    8  ls -l
+    9  ps
+   10  ps -aux | grep firefox
+   11  kill 2660
+   12  history
+   13  history > history_20220913a.txt
+   14  ls -l
+   15  ls -lt
+   16  cat history_20220913.txt
+   17  cat history_20220913a.txt
+   18  git clone http://github.com/Undiinee/RTR105
+   19  ls -lt
+   20  mv -/history_20220913a.txt ./RTR105/
+   21  mv history20220913a.txt ./RTR105
+   22  mv history_20220913a.txt ./RTR105
+   23  ls =lt
+   24  ls lt
+   25  ls -lt
+   26  pwd
+   27  git add .
+   28  git config --global.email 
+   29  git config --global.username 
+   30  git config --global user.name 
+   31  git config --global user.email 
+   32  git cpush origin main
+   33  git push origin main
+   34  pwd
+   35  ls -lt
+   36  history 
+   37  git commit -m "Class_03"
+   38  git push origin main
+   39  history > history_20220913b.txt
