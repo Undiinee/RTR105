@@ -1,4 +1,3 @@
-
 #!/bin/bash
 git add . #komanda 'uzmanāmo' mapju pievienošanai
 git config --global user.name undiinee
