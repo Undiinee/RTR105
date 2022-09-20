@@ -1,0 +1,21 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  ls
+    4  whereis ls
+    5  pwd
+    6  cd /bin
+    7  echo $0
+    8  ls
+    9  whereis ls
+   10  cat ls
+   11  cd
+   12  pwd
+   13  ls
+   14  whereis ls
+   15  echo $PATH
+   16  git clone https://github.com/undiinee/RTR105
+   17  ls -lt
+   18  cd RTR105/
+   19  ls
+   20  history
+   21  history > history_20220920.txt
