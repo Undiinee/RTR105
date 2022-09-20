@@ -19,3 +19,36 @@
    19  ls
    20  history
    21  history > history_20220920.txt
+   22  ls -lt
+   23  nano git-upload
+   24  ls -lt
+   25  cat git-upload 
+   26  git-upload
+   27  /home/user/RTR105/got-upload
+   28  /home/user/RTR105/git-upload
+   29  chmod 764 git-upload
+   30  ls -lt git-upload
+   31  nano git-upload
+   32  ./git-upload 
+   33  nano git-upload
+   34  ./git-upload 
+   35  nano git-upload
+   36  ls -lt git-upload
+   37  ./git-upload 
+   38  nano git-upload 
+   39  cd
+   40  rm -rf RTR105/
+   41  ls -lt
+   42  pwd
+   43  | grep clone
+   44  history | grep clone
+   45  git clone https://github.com/undiinee/RTR105
+   46  pwd
+   47  ls -lt
+   48  cd RTR105
+   49  ls -lt
+   50  echo $PATH
+   51  PATH=$PATH:./
+   52  echo $PATH
+   53  git-
+   54  history >history_20220920.txt
